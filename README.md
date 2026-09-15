@@ -16,10 +16,9 @@ You do not need to open every file. Keep the supplied folder structure unchanged
 
 ## Set up
 
-You need Python 3.11 (3.10–3.12 should also work), a terminal, and about 500 MB of disk for the downloaded models. Extract the course file **DA5453_coding_assignment.zip** and, inside the extracted folder, create an environment and install the pinned libraries:
+You need Python 3.11 (3.10–3.12 should also work), a terminal, and about 500 MB of disk for the downloaded models. On GitHub, select **Code → Download ZIP**, extract the download, and open a terminal inside the extracted folder. Then create an environment and install the pinned libraries:
 
 ```bash
-cd DA5453_coding_assignment
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
