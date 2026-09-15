@@ -1,0 +1,41 @@
+{
+  "profile": "full",
+  "runs": [
+    {
+      "name": "small_b01",
+      "n": 64,
+      "beta": 0.1,
+      "sft": 0.0
+    },
+    {
+      "name": "large_b01",
+      "n": 1024,
+      "beta": 0.1,
+      "sft": 0.0
+    },
+    {
+      "name": "large_b05",
+      "n": 1024,
+      "beta": 0.5,
+      "sft": 0.0
+    }
+  ],
+  "epochs": 5,
+  "model": "wassname/SmolLM2-360M-sft",
+  "revision": "f6fba1d52ca818ff2eff00af64c3c7f5c49cb795",
+  "seed": 42,
+  "effective_pairs": 2,
+  "microbatch_pairs": 1,
+  "max_length": 256,
+  "learning_rate": 3e-06,
+  "eval_beta": 0.1,
+  "max_new_tokens": 192,
+  "decoding": "greedy; no repetition penalty",
+  "device": "mps",
+  "gradient_checkpointing": true,
+  "dtype": "float32",
+  "python": "3.11.15 (main, Mar 11 2026, 17:14:47) [Clang 20.1.8 ]",
+  "torch": "2.11.0",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "save_final_weights": false
+}

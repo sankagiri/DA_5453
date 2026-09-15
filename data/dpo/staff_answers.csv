@@ -1,0 +1,521 @@
+run,example_id,prompt,answer,tokens,hit_token_limit
+starting_sft,helpful-base-train-27115,I'm going to have a new niece soon. Can you recommend me any baby gives I should buy for my sister?,"Sure, here are some baby gives that you can consider for your sister:
+
+1. Baby blanket: A baby blanket is a great gift for a baby. It can be a warm and cozy item that your sister can snuggle up in.
+
+2. Baby stroller: A baby stroller is a great gift for a baby. It can be a practical and comfortable item that your sister can use to travel with her baby.
+
+3. Baby carrier: A baby carrier is a great gift for a baby. It can be a practical and comfortable item that your sister can use to travel with her baby.
+
+4. Baby swing: A baby swing is a great gift for a baby. It can be a fun and relaxing item that your sister can use to take a nap or play with her baby.
+
+5. Baby stroller: A baby stroller is a great gift for a baby. It can be a practical and comfortable item that",192,True
+starting_sft,helpful-base-train-20900,What are the advantages of taking a cruise versus flying from place to place?,"Taking a cruise is a great option for those who want to explore new places and cultures without having to worry about the hassle of flying. Here are some of the advantages of taking a cruise:
+
+1. Cultural immersion: Cruises offer a unique opportunity to experience different cultures and traditions. You can visit exotic destinations and learn about different customs and practices.
+
+2. Relaxation: Cruises are a great way to unwind and relax. You can enjoy the amenities and activities onboard, such as spa treatments, gourmet dining, and entertainment.
+
+3. Cost-effective: Cruises are generally more affordable than flying, especially if you book in advance. You can also save money by choosing a cruise that offers a lower fare or a longer cruise.
+
+4. Flexibility: Cruises offer a flexible itinerary, allowing you to plan your trip around your schedule. You can choose to stay on the ship for a few days or weeks, or take a",192,True
+starting_sft,helpful-base-train-12787,How can I stop drinking so much soda?,"There are several ways to stop drinking so much soda:
+
+1. Drink more water: Drinking more water can help you feel fuller and reduce the urge to drink soda. You can also try adding lemon or lime to your water to make it more refreshing.
+
+2. Cut back on sugary drinks: Cut back on sugary drinks like soda, juice, and sports drinks. These drinks are high in sugar and can contribute to weight gain and other health problems.
+
+3. Choose healthier options: Look for healthier options when you go out to eat or drink at a restaurant. Look for drinks that are low in sugar and high in nutrients like fruits, vegetables, and whole grains.
+
+4. Find a healthier alternative: If you're not a fan of water, try other healthy drinks like unsweetened tea, coffee, or unsweetened smoothies.
+
+5. Find a healthier snack: If you're craving something sweet, try a healthy snack like a piece",192,True
+starting_sft,helpful-base-train-25342,What are some fun playdate themes?,"Sure, here are some fun playdate themes:
+
+1. Animal Theme: Playdate with animals like dogs, cats, birds, and fish.
+
+2. Nature Theme: Playdate with nature like trees, flowers, and animals.
+
+3. Sports Theme: Playdate with sports like soccer, basketball, and volleyball.
+
+4. Adventure Theme: Playdate with adventure like hiking, camping, and kayaking.
+
+5. Fantasy Theme: Playdate with fantasy like fairies, unicorns, and dragons.
+
+6. Science Theme: Playdate with science like astronomy, biology, and chemistry.
+
+7. Food Theme: Playdate with food like pizza, ice cream, and tacos.
+
+8. Movie Theme: Playdate with movies like Harry Potter, Avengers, and Star Wars.
+
+9. Book Theme: Playdate with books like Harry Potter, Percy Jackson, and The Hunger Games.
+
+10. Music Theme",192,True
+starting_sft,helpful-base-train-3423,I've never really heard much jazz before. Can you give me some essentials to get into it?,"Sure! Here are some essentials to get you started in jazz:
+
+1. Jazz music: This is the foundation of jazz. You can listen to jazz music on the radio or on your favorite streaming service.
+
+2. Jazz instruments: Jazz music is played with a variety of instruments, including saxophones, trumpets, trombones, and drums. You can learn to play these instruments on your own or with a jazz band.
+
+3. Jazz books: There are many books available that teach jazz music. Some popular ones include ""The Complete Jazz Book"" by John Lewis and ""The Complete Jazz Book"" by John Lewis and John Scofield.
+
+4. Jazz clubs: There are many jazz clubs in your area that play jazz music. You can attend these clubs to learn more about jazz and to meet other jazz musicians.
+
+5. Jazz teachers: There are many jazz teachers in your area who can help you learn more about jazz music",192,True
+starting_sft,helpful-base-train-28439,Is it true that cockroaches are extremely resistant to radiation?,"Yes, it is true that cockroaches are extremely resistant to radiation. They have developed a unique ability to withstand high levels of radiation exposure, which is why they are often found in areas with high levels of radiation, such as nuclear power plants or nuclear weapons testing sites. Cockroaches are also known to be able to survive for long periods of time without food or water, which is another reason why they are often found in areas with limited resources.",90,False
+starting_sft,helpful-base-train-37088,How strong is titanium?,"Titanium is a strong and lightweight metal that is commonly used in aerospace, automotive, and medical industries. It has a high strength-to-weight ratio, making it ideal for applications that require high strength and durability. Titanium is also resistant to corrosion and has a high melting point, making it suitable for use in high-temperature applications.
+
+In terms of strength, titanium is one of the strongest metals in the world. It can withstand high temperatures and can withstand extreme pressure and stress. Titanium is also highly resistant to corrosion and has a high melting point, making it suitable for use in high-temperature applications.
+
+Overall, titanium is a strong and durable metal that is widely used in a variety of industries. Its high strength-to-weight ratio, corrosion resistance, and high melting point make it an ideal material for a wide range of applications.",177,False
+starting_sft,helpful-base-train-607,I'm trying to make waffles using a waffle machine.  I lost the recipe that came with the manual. Can you help me?,"Sure, here's a recipe for waffles using a waffle machine:
+
+Ingredients:
+- 1 cup all-purpose flour
+- 1/2 cup granulated sugar
+- 1/2 cup unsweetened cocoa powder
+- 1/2 cup milk
+- 1/2 cup vegetable oil
+- 1/2 teaspoon salt
+- 1/2 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon cinnamon
+- 1/2 teaspoon nutmeg
+- 1/2 teaspoon cloves
+- 1/2 teaspoon ginger
+- 1/2 teaspoon vanilla extract
+
+Instructions:
+
+1. Preheat the waffle maker to the desired temperature.
+
+2. In a large bowl, whisk together the flour, sugar, cocoa powder, milk, vegetable oil, salt, baking powder, baking soda, cinnamon, nutmeg,",192,True
+starting_sft,helpful-base-train-43046,I have a mild cold with a persistent cough and sore throat. How can I ease my symptoms?,"There are several things you can do to ease your symptoms and help you feel better. Here are some tips:
+
+1. Drink plenty of fluids: Drinking plenty of water, herbal tea, or warm liquids can help loosen up mucus and ease congestion.
+
+2. Use a humidifier: A humidifier can help to moisten the air and ease congestion.
+
+3. Take over-the-counter medications: Over-the-counter medications like cough syrup, decongestants, and antihistamines can help to relieve symptoms.
+
+4. Get plenty of rest: Getting plenty of rest can help to reduce stress and fatigue, which can make it harder to breathe.
+
+5. Use a vaporizer: A vaporizer can help to moisten the air and ease congestion.
+
+6. Avoid irritants: Avoid smoking, pollution, and other irritants that can irritate your throat and lungs.
+
+7. Take a hot shower: A hot shower can help to",192,True
+starting_sft,helpful-base-train-22467,How do I clean a coffee maker?,"To clean a coffee maker, you can use a soft cloth or sponge to wipe down the inside and outside of the machine. You can also use a mild dish soap and warm water to clean the machine's interior and exterior. Be sure to rinse the machine thoroughly with warm water and dry it completely with a clean towel. If the machine is still dirty, you can use a soft brush to gently scrub the machine's interior and exterior. However, be careful not to use abrasive materials or harsh chemicals, as they can damage the machine's internal parts.",111,False
+starting_sft,helpful-base-train-5585,How do I know if I have covid?,"If you are experiencing any of the following symptoms, you may have covid:
+
+- Fever
+- Cough
+- Shortness of breath
+- Chills
+- Fatigue
+- Headache
+- Muscle or body aches
+- Sore throat
+- Nausea or vomiting
+- Diarrhea
+- Loss of taste or smell
+- Joint or muscle pain
+- Runny or stuffy nose
+- Sore eyes
+- Loss of taste or smell
+- Fatigue
+- Headache
+- Muscle or body aches
+- Shortness of breath
+- Chills
+- Fatigue
+- Headache
+- Muscle or body aches
+- Shortness of breath
+- Chills
+- Fatigue
+- Headache
+- Muscle or body aches
+- Shortness of breath
+- Chills
+- Fatigue
+- Headache
+- Muscle or body aches
+- Shortness of breath
+- Chills
+- Fatigue
+- Headache",192,True
+starting_sft,helpful-base-train-10361,can you find me a recipe for a brined turkey I can make for Thanks giving?,"Yes, here's a recipe for a brined turkey that you can make for Thanksgiving:
+
+Ingredients:
+- 1 pound of turkey breast
+- 1/2 cup of kosher salt
+- 1/4 cup of freshly ground black pepper
+- 1/4 cup of apple cider vinegar
+- 1/4 cup of olive oil
+- 1/4 cup of honey
+- 1/4 cup of brown sugar
+- 1/4 cup of chopped fresh parsley
+- 1/4 cup of chopped fresh thyme
+- 1/4 cup of chopped fresh sage
+- 1/4 cup of chopped fresh rosemary
+- 1/4 cup of chopped fresh sage
+- 1/4 cup of chopped fresh rosemary
+- 1/4 cup of chopped fresh rosemary
+- 1/4 cup of chopped fresh rosemary
+- 1/4 cup of chopped fresh rosemary",192,True
+starting_sft,staff-probe-01,Suggest three quiet activities for a rainy afternoon at home.,"1. Reading a book: Choose a book that you enjoy and read it in a comfortable, quiet environment.
+
+2. Watching a movie: Choose a movie that you enjoy and watch it in a quiet environment.
+
+3. Listening to music: Choose a playlist of your favorite songs and listen to them in a quiet environment.",67,False
+starting_sft,staff-probe-02,"Give me two ideas for using leftover cooked rice, carrots and peas.","1. Rice and Vegetable Stir Fry: Cook leftover cooked rice and add it to a stir fry with vegetables like carrots, bell peppers, broccoli, and onions. Season with soy sauce, sesame oil, and garlic.
+
+2. Rice and Vegetable Soup: Cook leftover cooked rice and add it to a vegetable soup with carrots, celery, onions, and potatoes. Season with soy sauce, sesame oil, and garlic.
+
+I hope these ideas help!",92,False
+starting_sft,staff-probe-03,How can I begin learning to draw with a pencil? Give me three practical steps.,"Here are three practical steps to help you learn to draw with a pencil:
+
+1. Start with a simple object: Begin by drawing a simple object, such as a pencil, a pen, or a piece of paper. This will help you get a feel for the pencil and how it interacts with the paper.
+
+2. Practice drawing with a pencil: Once you have a basic understanding of the pencil, practice drawing with it. Start with simple shapes, such as circles, squares, and triangles, and gradually move on to more complex shapes.
+
+3. Experiment with different techniques: Experiment with different techniques, such as hatching, cross-hatching, and stippling, to add depth and texture to your drawings.
+
+Remember, practice is key to learning to draw with a pencil. Don't be afraid to make mistakes, and don't give up if you don't get it right the first time. With practice and patience, you'll",192,True
+starting_sft,staff-probe-04,Write one polite sentence I can use to end a meeting because I have another appointment.,"""Thank you for your time today. I have another appointment that I need to attend. Please let me know if there is any time I can accommodate.""",32,False
+starting_sft,staff-probe-05,Suggest two toppings for a bowl of plain yogurt.,"1. Fresh fruit: Strawberries, blueberries, raspberries, or sliced bananas are all great options.
+
+2. Nuts: Almonds, walnuts, or pecans are crunchy and add a nice texture to the yogurt.
+
+3. Granola: A sprinkle of granola adds a nice crunch and a healthy dose of fiber.
+
+4. Chocolate chips: A small handful of chocolate chips can add a sweet and indulgent touch to the bowl.
+
+5. Dried fruit: Dried cranberries, raisins, or apricots can add a burst of sweetness and texture to the bowl.
+
+6. Sliced vegetables: Carrots, celery, or bell peppers can add a colorful and nutritious twist to the bowl.
+
+7. Sliced avocado: A small handful of sliced avocado adds a creamy and healthy texture to the bowl.
+
+8. Sliced cucumber: A small handful of sliced cucumber adds a refreshing and cool texture to the",192,True
+starting_sft,staff-probe-06,What is the best route to get there?,"The best route to get to the beach is to take a bus or a taxi from the airport. The bus or taxi will take you to the beach, and you can then walk to the beach. Alternatively, you can take a ferry from the airport to the beach.",55,False
+starting_sft,staff-probe-07,Help me choose a birthday present.,"I don't have the ability to choose a birthday present for you. However, I can suggest some ideas that you might enjoy. Here are some ideas:
+
+1. A new pair of shoes: a pair of stylish and comfortable shoes can be a great gift for a birthday. You can choose from a variety of styles, colors, and designs.
+
+2. A new phone: a new phone can be a great gift for a birthday. You can choose from a variety of models, features, and colors.
+
+3. A new laptop: a new laptop can be a great gift for a birthday. You can choose from a variety of models, features, and colors.
+
+4. A new book: a new book can be a great gift for a birthday. You can choose from a variety of genres, authors, and titles.
+
+5. A new video game: a new video game can be a great gift for a birthday. You can",192,True
+starting_sft,staff-probe-08,Can you tell me whether the parcel I ordered yesterday has arrived?,I do not have access to the current status of the parcel you ordered yesterday.,17,False
+small_b01,helpful-base-train-27115,I'm going to have a new niece soon. Can you recommend me any baby gives I should buy for my sister?,"There are many baby gives that you can buy for your sister, such as a high chair, a car seat, a stroller, and a baby blanket. You can also consider getting her a new baby doll or a stuffed animal.",48,False
+small_b01,helpful-base-train-20900,What are the advantages of taking a cruise versus flying from place to place?,"There are several advantages to taking a cruise over flying from place to place, including:
+
+1. Cost: Cruises are generally more affordable than flying, especially if you're traveling between different cities or countries.
+
+2. Time: Cruises offer a more leisurely and relaxed experience than flying, which can be great for those who want to take a break from their daily routine.
+
+3. Environment: Cruising can be a more environmentally friendly option than flying, as you're not contributing to the emissions that come from planes.
+
+4. Entertainment: Cruises often offer a variety of entertainment options, such as live music, theater, and other forms of entertainment, which can be a great way to spend your time on vacation.
+
+5. Sightseeing: Many cruises offer a range of sightseeing options, from museums and art galleries to historic landmarks and natural wonders.",178,False
+small_b01,helpful-base-train-12787,How can I stop drinking so much soda?,"There are several ways to stop drinking so much soda, including:
+
+1. Cut back on soda: Start by cutting back on the amount of soda you drink each day. Gradually increase your intake over time, but don't go overboard.
+
+2. Drink water instead: Drinking water instead of soda can help you feel fuller and reduce your calorie intake.
+
+3. Choose healthier options: Look for soda-free options at your local grocery store or restaurant. You can also try drinking water with a slice of lemon or lime for flavor.
+
+4. Find a healthier alternative: If you're not a fan of water, there are many other healthy options you can try, such as unsweetened tea, coffee, or unsweetened fruit juice.
+
+5. Find a support system: If you're struggling with soda addiction, consider finding a support system, such as a friend or family member who can help you cut back or help you quit altogether",192,True
+small_b01,helpful-base-train-25342,What are some fun playdate themes?,"Some fun playdate themes include:
+
+- Beach theme: Play in the sand, swim in the ocean, and have a picnic in the park.
+- Movie night theme: Watch a movie and play games or have a snack.
+- Animal theme: Play with animals, such as dogs, cats, and birds.
+- Sports theme: Play sports, such as soccer, basketball, or volleyball.
+- Theme park theme: Play in a theme park and have fun with rides and attractions.",103,False
+small_b01,helpful-base-train-3423,I've never really heard much jazz before. Can you give me some essentials to get into it?,"1. Jazz music: This is the foundation of jazz, and you should listen to some jazz music to get a sense of the genre.
+
+2. Jazz instruments: You'll need to have some jazz instruments, such as a saxophone, trumpet, piano, and drums.
+
+3. Jazz books: There are many jazz books available that you can read to learn more about the genre.
+
+4. Jazz clubs: You can find jazz clubs in your area that play jazz music.
+
+5. Jazz teachers: You can find jazz teachers in your area who can help you learn more about the genre.",123,False
+small_b01,helpful-base-train-28439,Is it true that cockroaches are extremely resistant to radiation?,"Yes, it is true that cockroaches are extremely resistant to radiation. They have developed a number of adaptations that allow them to survive in environments that are otherwise inhospitable to other organisms.",38,False
+small_b01,helpful-base-train-37088,How strong is titanium?,"Titanium is a strong and lightweight metal that is highly resistant to corrosion and wear. It has a specific gravity of 4.5, making it one of the lightest metals in the world. Titanium is also highly resistant to corrosion and is commonly used in aerospace and automotive industries.",60,False
+small_b01,helpful-base-train-607,I'm trying to make waffles using a waffle machine.  I lost the recipe that came with the manual. Can you help me?,"I do not have access to the specific recipe for waffles that came with the manual. However, you can try searching for a waffle recipe online or by searching for ""waffle recipe"" on a cooking website. You can also try using a waffle maker that has a pre-made waffle recipe as a starting point.",73,False
+small_b01,helpful-base-train-43046,I have a mild cold with a persistent cough and sore throat. How can I ease my symptoms?,"There are several things you can do to ease your symptoms, including:
+
+1. Drink plenty of fluids: Drinking water, herbal tea, or warm liquids can help to soothe your throat and relieve a cough.
+
+2. Take over-the-counter medications: Over-the-counter medications like cough syrup or decongestants can help to relieve your symptoms.
+
+3. Use a humidifier: A humidifier can help to moisten the air in your room, which can help to soothe your throat and reduce congestion.
+
+4. Take a hot shower: A hot shower can help to soothe your throat and reduce inflammation.
+
+5. Get plenty of rest: Rest is essential for your recovery. Make sure to get plenty of rest and take time to relax.",157,False
+small_b01,helpful-base-train-22467,How do I clean a coffee maker?,"To clean a coffee maker, you can use a soft-bristled brush or a microfiber cloth to remove any coffee grounds or debris. You can also use a mild dish soap and warm water to clean the inside of the machine. Be sure to rinse the machine thoroughly with warm water after cleaning to remove any soap residue.",67,False
+small_b01,helpful-base-train-5585,How do I know if I have covid?,"There are several ways to know if you have covid, including:
+
+- A positive test result from a COVID-19 test
+- A positive antibody test result from a previous COVID-19 infection
+- A positive PCR test result from a COVID-19 test
+- A positive antigen test result from a previous COVID-19 infection
+- A positive antibody test result from a previous COVID-19 infection
+- A positive PCR test result from a COVID-19 test
+- A positive antigen test result from a previous COVID-19 infection
+
+If you have any of these results, you should contact your healthcare provider for further testing and treatment.",139,False
+small_b01,helpful-base-train-10361,can you find me a recipe for a brined turkey I can make for Thanks giving?,"Here's a recipe for brined turkey:
+
+Ingredients:
+- 1 pound turkey breast
+- 1/2 cup kosher salt
+- 1/4 cup brown sugar
+- 1/4 cup apple cider vinegar
+- 1/4 cup water
+- 1/4 cup olive oil
+- 1/4 cup chopped fresh parsley
+- 1/4 cup chopped fresh thyme
+- 1/4 cup chopped fresh sage
+- 1/4 cup chopped fresh rosemary
+- 1/4 cup chopped fresh basil
+- 1/4 cup chopped fresh cilantro
+- 1/4 cup chopped fresh dill
+- 1/4 cup chopped fresh parsley
+
+Instructions:
+1. Rinse the turkey breast under cold water and pat it dry with paper towels.
+2. In a large bowl, combine the kosher salt, brown sugar, apple cider vinegar, water, olive oil",192,True
+small_b01,staff-probe-01,Suggest three quiet activities for a rainy afternoon at home.,"1. Take a relaxing bath or shower
+2. Read a book or magazine
+3. Practice yoga or meditation
+
+These activities can help you relax and unwind after a long day at home.",42,False
+small_b01,staff-probe-02,"Give me two ideas for using leftover cooked rice, carrots and peas.","1. Make a vegetable stir-fry with leftover cooked rice, carrots, and peas.
+2. Use leftover cooked rice, carrots, and peas as a base for a quinoa salad.",40,False
+small_b01,staff-probe-03,How can I begin learning to draw with a pencil? Give me three practical steps.,"1. Start with a simple object or shape, such as a pencil on a piece of paper.
+2. Practice drawing the object or shape with your pencil, focusing on the lines and shading.
+3. Experiment with different pencil grips and grips sizes to find the one that feels most comfortable for you.",63,False
+small_b01,staff-probe-04,Write one polite sentence I can use to end a meeting because I have another appointment.,I will be meeting with my team next week.,11,False
+small_b01,staff-probe-05,Suggest two toppings for a bowl of plain yogurt.,"1. Fresh fruit
+2. Granola
+3. Nuts and seeds
+4. Dark chocolate chips
+5. Dark chocolate
+
+These toppings can add a burst of flavor and texture to your plain yogurt bowl.",46,False
+small_b01,staff-probe-06,What is the best route to get there?,"There are several routes to get to the summit of Mount Everest, including the traditional route, the South Col route, and the North Col route. The traditional route is the most popular and involves climbing up the mountain from the Nepalese side. The South Col route is a shorter and easier route that takes you to the summit from the Indian side. The North Col route is a more challenging route that takes you to the summit from the Chinese side.",90,False
+small_b01,staff-probe-07,Help me choose a birthday present.,"I would recommend a new pair of high-quality sneakers for your birthday. They will not only look great on you, but they will also provide you with a fun and stylish outfit for the day.",42,False
+small_b01,staff-probe-08,Can you tell me whether the parcel I ordered yesterday has arrived?,"I do not have current information on the status of your parcel. However, you can check the tracking information provided by the courier company or the parcel tracking website to see if your parcel has arrived.",41,False
+large_b01,helpful-base-train-27115,I'm going to have a new niece soon. Can you recommend me any baby gives I should buy for my sister?,I would recommend getting a high-quality bassinet for my sister's niece. It will be her primary sleeping space and will provide her with the best possible start to her life as a baby.,41,False
+large_b01,helpful-base-train-20900,What are the advantages of taking a cruise versus flying from place to place?,"There are a number of advantages to taking a cruise rather than flying from place to place, including:
+
+- Reduced travel time: Cruises typically last for several days or weeks, which means passengers can travel more slowly and enjoy more time with their loved ones.
+- Lower cost: Cruises are generally less expensive than flying, and many offer more amenities and options for passengers.
+- Unique experiences: Cruising allows passengers to experience new and exciting destinations, and to explore different cultures and ways of life.
+- Personalized experience: Cruise ships are designed to provide a personalized and intimate experience for each passenger, with a focus on the individual's interests and preferences.",137,False
+large_b01,helpful-base-train-12787,How can I stop drinking so much soda?,"One way to stop drinking so much soda is to create a soda-free environment in your home. This could mean limiting the amount of soda you drink at meal times, or finding other beverages that you enjoy that are lower in sugar. You could also try to find healthier options for drinks, like 100% fruit juice or water.",70,False
+large_b01,helpful-base-train-25342,What are some fun playdate themes?,"There are many fun playdate themes you can choose from, such as sports, crafts, or a theme from a movie or TV show. Some fun playdate themes include soccer day, art day, and a theme from a movie or TV show.",51,False
+large_b01,helpful-base-train-3423,I've never really heard much jazz before. Can you give me some essentials to get into it?,"Sure! Some essentials to get into jazz are a good music theory background, a good ear for music, and a willingness to practice.",28,False
+large_b01,helpful-base-train-28439,Is it true that cockroaches are extremely resistant to radiation?,"Yes, cockroaches are extremely resistant to radiation. They can withstand much higher levels of radiation than most other animals, and some species have been known to survive exposure to nuclear bombs.",36,False
+large_b01,helpful-base-train-37088,How strong is titanium?,"Titanium is a strong and lightweight metal that is stronger than steel but less dense than aluminum. Its strength makes it ideal for use in aerospace and automotive applications, where it is often used in aircraft and spacecraft. Titanium has a specific gravity of 4.5, which means that it is 4.5 times as dense as water. This makes it very difficult to crush or break, which is why it is used in many high-performance applications. Titanium has a tensile strength of around 500 MPa (megapascals), which is about 10 times stronger than steel.",125,False
+large_b01,helpful-base-train-607,I'm trying to make waffles using a waffle machine.  I lost the recipe that came with the manual. Can you help me?,"I can help you with that!  The recipe for waffles that came with the manual is for a waffle iron.  I don't have a waffle iron, so I can't give you the exact recipe.  However, I can give you the general steps for making waffles using a waffle machine.  Here are the steps:
+
+Step 1:  Prepare the batter.  In a large bowl, mix together the flour, sugar, baking powder, and salt.  Add the milk and egg, and mix until well combined.  Add the melted butter and mix until the batter is smooth.
+
+Step 2:  Heat the waffle iron.  Follow the manufacturer's instructions for heating the waffle iron.  I usually heat mine for 3 minutes on each side.
+
+Step 3:  Pour the batter into the waffle iron.  Make",192,True
+large_b01,helpful-base-train-43046,I have a mild cold with a persistent cough and sore throat. How can I ease my symptoms?,"I would start with over-the-counter pain and fever relief medications, such as acetaminophen or ibuprofen, to help with the symptoms of a cold. I would also recommend drinking plenty of fluids, such as water or clear soup, to help with hydration and ease the cough. I would also suggest getting plenty of rest and avoiding people who are sick, as this can help to reduce the duration and severity of your symptoms.",85,False
+large_b01,helpful-base-train-22467,How do I clean a coffee maker?,"To clean a coffee maker, start by turning it off and unplugging it from the electricity source. Then, use a dry, clean cloth to wipe down the interior of the machine, including the filter basket and the heating element. You can also use a damp cloth to clean the exterior of the machine, but be careful not to get any water or moisture in the heating element.",78,False
+large_b01,helpful-base-train-5585,How do I know if I have covid?,"There are a number of symptoms and signs that can indicate you have covid, including fever, cough, and difficulty breathing. If you experience any of these symptoms, it's a good idea to contact your healthcare provider for testing.",47,False
+large_b01,helpful-base-train-10361,can you find me a recipe for a brined turkey I can make for Thanks giving?,"Yes, a brined turkey is a popular and delicious option for Thanksgiving. Here's a recipe for a brined turkey:
+
+brined turkey recipe
+
+the ingredients you'll need are:
+- 1 pound of turkey
+- 1 cup of kosher salt
+- 1 cup of water
+- 1/4 cup of brown sugar
+- 1/4 cup of apple cider vinegar
+- 1/4 cup of chopped fresh parsley
+- 1/4 cup of chopped fresh thyme
+- 1/4 cup of chopped fresh sage
+- 1/4 cup of chopped fresh rosemary
+- 1/4 cup of chopped fresh sage
+- 1/4 cup of chopped fresh marjoram
+- 1/4 cup of chopped fresh oregano
+- 1/4 cup of chopped fresh basil
+- 1/4 cup of chopped fresh cilantro
+- 1/4",192,True
+large_b01,staff-probe-01,Suggest three quiet activities for a rainy afternoon at home.,"1. Read a book
+2. Do some light housework, like vacuuming or mopping
+3. Take a long, hot shower and relax in the tub or shower
+
+I recommend the first option - reading a book!",49,False
+large_b01,staff-probe-02,"Give me two ideas for using leftover cooked rice, carrots and peas.","1. Make rice pilaf: Cook the rice, then add in the vegetables and cook for a few more minutes. 2. Make vegetable curry: Saute the vegetables in some oil, then add in the cooked rice and vegetables. ",50,False
+large_b01,staff-probe-03,How can I begin learning to draw with a pencil? Give me three practical steps.,"1. Start with a simple subject: Begin by choosing a simple subject, such as a person or an object, and practicing with that first. 2. Practice with different pencils: Once you have a basic understanding of the pencil, practice with different pencils to see which ones you like the best. 3. Use a drawing board: A drawing board is a great way to practice drawing with a pencil. It provides a flat surface to work on, and it allows you to see your work in progress.",103,False
+large_b01,staff-probe-04,Write one polite sentence I can use to end a meeting because I have another appointment.,I will see you later.,7,False
+large_b01,staff-probe-05,Suggest two toppings for a bowl of plain yogurt.,"There are a few topping options for a bowl of plain yogurt, such as fresh fruit, nuts, and granola.",26,False
+large_b01,staff-probe-06,What is the best route to get there?,"The best route to get to the Grand Canyon is to take a road trip from Arizona. There are several routes you can take, but the most popular is the Grand Canyon-Arizona State Park Road.",42,False
+large_b01,staff-probe-07,Help me choose a birthday present.,"I don't have any specific birthday presents that you've chosen, but here are a few ideas to get you started:
+
+- A new video game: Video games are a great way to spend time with your friends and family, and they can be a fun and exciting birthday present.
+
+- A new book: A new book can be a great way to spend time with your loved ones and learn something new.
+
+- A new pair of shoes: New shoes can be a fun and exciting gift that will make you feel more confident and stylish.
+
+- A new phone: A new phone can be a great way to stay connected with friends and family, and it can also be a fun and exciting gift.",148,False
+large_b01,staff-probe-08,Can you tell me whether the parcel I ordered yesterday has arrived?,"Yes, the parcel you ordered yesterday has arrived.",11,False
+large_b05,helpful-base-train-27115,I'm going to have a new niece soon. Can you recommend me any baby gives I should buy for my sister?,"Sure! Here are some baby gives that you might want to consider for your sister:
+
+1. Baby blanket - A baby blanket is a great way to make your sister feel more comfortable and secure. You can find baby blankets in a variety of colors and patterns, so you can choose one that matches your sister's style.
+
+2. Baby bib - A baby bib is a great way to keep your sister's clothes clean and dry. You can find bibs in a variety of sizes and styles, so you can choose one that fits your sister's size.
+
+3. Baby swing - A baby swing is a fun and easy way to get your sister moving. You can find swings in a variety of sizes and styles, so you can choose one that fits your sister's size.
+
+4. Baby stroller - A baby stroller is a great way to get your sister out and about. You can find stroller in a variety",192,True
+large_b05,helpful-base-train-20900,What are the advantages of taking a cruise versus flying from place to place?,"There are several advantages to taking a cruise over flying from place to place. First, a cruise is a more comfortable and relaxing option than flying. The ocean breeze and the feeling of being surrounded by nature can make a long flight less stressful. Second, a cruise can offer a more diverse range of experiences than a flight. For example, a cruise can take you to different parts of the world, where you can experience different cultures, cuisines, and landscapes. Third, a cruise can be a more affordable option than flying. Many cruises offer lower fares than flights, and some cruises offer discounts for families or groups. Finally, a cruise can provide a unique perspective on a destination. For example, a cruise to a tropical island can offer a different perspective on the beauty of the ocean and the sun.",163,False
+large_b05,helpful-base-train-12787,How can I stop drinking so much soda?,"There are several ways to stop drinking so much soda, including:
+
+1. Cut back on soda: Start by cutting back on the amount of soda you drink each day. You can try drinking water or other low-calorie beverages instead.
+
+2. Drink more water: Drinking more water can help you feel full and reduce your desire to drink soda.
+
+3. Choose healthier options: Look for soda-free options at your local grocery store or restaurant. You can also try drinking water or other low-calorie beverages instead.
+
+4. Find a healthier alternative: If you're not sure what to drink, try looking for healthier options at your local grocery store or restaurant.
+
+5. Find a support system: Find a friend or family member who is also trying to cut back on soda. You can share your goals and support each other in your efforts.",174,False
+large_b05,helpful-base-train-25342,What are some fun playdate themes?,"There are many fun playdate themes, such as:
+
+1. Animal theme - Play with stuffed animals, puppets, or toys that have animal names.
+
+2. Sports theme - Play with sports equipment, such as soccer balls, basketball hoops, or baseball bats.
+
+3. Nature theme - Play with natural objects, such as leaves, rocks, or flowers.
+
+4. Food theme - Play with food items, such as cookies, cupcakes, or fruit salad.
+
+5. Adventure theme - Play with toys that have adventure themes, such as toy cars, action figures, or puzzles.
+
+6. Fantasy theme - Play with toys that have fantasy themes, such as toy dragons, unicorns, or fairies.
+
+7. Science theme - Play with science toys, such as magnifying glasses, microscopes, or telescopes.
+
+8. Music theme - Play with musical instruments, such as drums, guitars, or trumpets.
+
+",192,True
+large_b05,helpful-base-train-3423,I've never really heard much jazz before. Can you give me some essentials to get into it?,"Sure! Here are some essentials to get you started in jazz:
+
+1. A good jazz book: Jazz books are a great place to start. They cover a wide range of styles and can help you learn about different jazz genres.
+
+2. A good jazz instrument: Jazz is all about improvisation, so you'll need a good instrument to play with. A guitar, piano, or even a saxophone can all be great options.
+
+3. A good jazz teacher: Jazz is a lot of fun, but it can also be a lot of work. You'll need someone to guide you and help you improve.
+
+4. A good jazz club: Jazz is a social music, so you'll want to find a jazz club where you can meet other musicians and play with them.
+
+I hope that helps! Let me know if you have any other questions.",177,False
+large_b05,helpful-base-train-28439,Is it true that cockroaches are extremely resistant to radiation?,"Yes, it is true that cockroaches are extremely resistant to radiation. They have developed a number of adaptations that allow them to survive in environments that are otherwise uninhabitable for other organisms. For example, they have developed a thick, waxy outer layer that protects them from the effects of radiation. They also have a high tolerance for heat and can survive for long periods of time without food or water.",80,False
+large_b05,helpful-base-train-37088,How strong is titanium?,"Titanium is a strong and lightweight metal that is highly resistant to corrosion and wear. It has a specific gravity of 4.5, which means that it is about 4.5 times as dense as water. Titanium is also highly resistant to corrosion, which means that it can be used in a wide range of applications where other metals may corrode. Titanium is also highly resistant to fatigue, which means that it can withstand repeated stress without breaking.",95,False
+large_b05,helpful-base-train-607,I'm trying to make waffles using a waffle machine.  I lost the recipe that came with the manual. Can you help me?,"Sure! Here's a basic recipe for waffles that you can use as a starting point:
+
+Ingredients:
+- 1 cup all-purpose flour
+- 1/2 cup granulated sugar
+- 1/2 cup unsweetened cocoa powder
+- 1/2 teaspoon salt
+- 1/2 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/2 cup vegetable oil
+- 1/2 cup buttermilk
+- 1 egg
+- 1/2 cup milk
+- 1/4 cup vegetable oil
+- 1/4 cup unsweetened applesauce
+- 1/4 cup honey
+- 1/4 cup powdered sugar
+- 1/4 cup unsweetened cocoa powder
+- 1/4 cup vegetable oil
+- 1/4 cup unsweetened applesauce
+- 1/4",192,True
+large_b05,helpful-base-train-43046,I have a mild cold with a persistent cough and sore throat. How can I ease my symptoms?,"There are several things you can do to ease your symptoms, including:
+
+1. Drink plenty of fluids: Drinking plenty of water, herbal tea, or warm liquids can help to loosen up mucus and ease congestion.
+
+2. Use a humidifier: A humidifier can help to moisten the air and ease congestion.
+
+3. Take over-the-counter medications: Over-the-counter medications like cough syrup, decongestants, and antihistamines can help to relieve symptoms.
+
+4. Get plenty of rest: Getting plenty of rest can help to reduce stress and fatigue, which can both help to ease symptoms.
+
+5. Use a vaporizer: A vaporizer can help to moisten the air and ease congestion.
+
+Remember, it's always a good idea to talk to your doctor if you have any concerns about your symptoms or if they get worse.",179,False
+large_b05,helpful-base-train-22467,How do I clean a coffee maker?,"To clean a coffee maker, you can use a mixture of baking soda and water. Mix 1/4 cup of baking soda with 1/4 cup of water in a bowl. Add the coffee maker to the bowl and stir until the baking soda is dissolved. Then, pour the mixture into the coffee maker and let it sit for 10-15 minutes. After that, you can use a soft-bristled brush to scrub the inside of the coffee maker and any other parts that are dirty. Rinse the coffee maker with water and let it dry completely before using it again.",122,False
+large_b05,helpful-base-train-5585,How do I know if I have covid?,"There are several ways to know if you have covid. The most common way is to get tested for the virus. You can get tested at a doctor's office, clinic, or at home with a home test kit. If you test positive, you will be given a positive test result and will be advised to self-isolate and get tested again if you have symptoms. If you test negative, you will not be advised to self-isolate and will not be given a positive test result.",102,False
+large_b05,helpful-base-train-10361,can you find me a recipe for a brined turkey I can make for Thanks giving?,"Yes, I can definitely find you a recipe for a brined turkey for Thanksgiving. Here's one you can try:
+
+Ingredients:
+- 1 pound of turkey breast, cut into 1-inch cubes
+- 1/2 cup of kosher salt
+- 1/4 cup of freshly ground black pepper
+- 1/4 cup of apple cider vinegar
+- 1/4 cup of brown sugar
+- 1/4 cup of chopped fresh parsley
+- 1/4 cup of chopped fresh thyme
+- 1/4 cup of chopped fresh sage
+- 1/4 cup of chopped fresh rosemary
+- 1/4 cup of chopped fresh sage
+- 1/4 cup of chopped fresh marjoram
+- 1/4 cup of chopped fresh oregano
+- 1/4 cup of chopped fresh basil
+- 1/4 cup of chopped fresh cilantro
+-",192,True
+large_b05,staff-probe-01,Suggest three quiet activities for a rainy afternoon at home.,"1. Reading a book or magazine
+2. Watching a movie or TV show
+3. Listening to music or podcasts
+4. Doing some light housework, like vacuuming or dusting
+5. Taking a bath or shower
+6. Playing with a pet or a child
+7. Doing some light exercise, like stretching or yoga
+8. Taking a nap or going to bed
+9. Doing some light household chores, like dusting or vacuuming
+10. Doing some light gardening or yard work, like raking leaves or watering plants
+11. Doing some light cooking or baking, like making a simple breakfast or lunch
+12. Doing some light DIY projects, like making a DIY face mask or a DIY candle
+13. Doing some light exercise, like walking or jogging
+14. Doing some light exercise, like dancing or playing a musical instrument
+15. Doing some light exercise, like playing a",192,True
+large_b05,staff-probe-02,"Give me two ideas for using leftover cooked rice, carrots and peas.","1. Make a vegetable stir-fry: Cook the leftover rice, carrots and peas in a pan with some oil and spices. Add the vegetables and stir-fry until they are cooked through. Serve with rice and soy sauce.
+
+2. Make a vegetable soup: Add the leftover rice, carrots and peas to a pot with some water and vegetables. Simmer until the vegetables are cooked and the soup is thick. Serve with rice and garnish with chopped herbs.",97,False
+large_b05,staff-probe-03,How can I begin learning to draw with a pencil? Give me three practical steps.,"1. Start with a simple object or shape, such as a pencil, a pen, or a marker. 2. Practice drawing the object or shape with your non-dominant hand, so that you can focus on the details. 3. Use a pencil sharpener to sharpen the pencil, and then practice drawing with the sharpened pencil. 4. Use a pencil sharpener to sharpen the pencil, and then practice drawing with the sharpened pencil. 5. Practice drawing with a pencil, and gradually increase the complexity of the object or shape you are drawing. 6. Use a pencil sharpener to sharpen the pencil, and then practice drawing with the sharpened pencil. 7. Use a pencil sharpener to sharpen the pencil, and then practice drawing with the sharpened pencil. 8. Practice drawing with a pencil, and gradually increase the complexity of the object or shape you are drawing. 9. Use a pencil",192,True
+large_b05,staff-probe-04,Write one polite sentence I can use to end a meeting because I have another appointment.,I have another appointment to make.,8,False
+large_b05,staff-probe-05,Suggest two toppings for a bowl of plain yogurt.,"One topping for a bowl of plain yogurt is fresh fruit, such as strawberries, blueberries, or raspberries. Another topping is granola, which can be mixed with the yogurt for a crunchy texture. Another topping is nuts, such as almonds or walnuts, which can add a nutty flavor and crunch.",64,False
+large_b05,staff-probe-06,What is the best route to get there?,"The best route to get to the beach is to take a bus or taxi from the airport. The bus or taxi will take you to the beach, and you can then walk to the beach.",40,False
+large_b05,staff-probe-07,Help me choose a birthday present.,"I don't have personal experiences, but here are some ideas to consider:
+
+- A new phone or tablet - this is a great way to show your love and appreciation for your birthday.
+- A new pair of shoes - this is a great way to show your love for your feet.
+- A new book or magazine - this is a great way to show your love for reading.
+- A new outfit - this is a great way to show your love for style.
+- A new hobby or activity - this is a great way to show your love for something new.
+- A new hobby or activity - this is a great way to show your love for something new.",141,False
+large_b05,staff-probe-08,Can you tell me whether the parcel I ordered yesterday has arrived?,"Yes, the parcel you ordered yesterday has arrived.",11,False

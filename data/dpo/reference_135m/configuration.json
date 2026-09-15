@@ -1,0 +1,20 @@
+{
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "revision": "12fd25f77366fa6b3b4b768ec3050bf629380bac",
+  "beta": 0.1,
+  "epochs": 2,
+  "train_pairs": 64,
+  "validation_pairs": 125,
+  "learning_rate": 3e-06,
+  "seed": 42,
+  "max_length": 256,
+  "max_new_tokens": 128,
+  "decoding": "greedy",
+  "effective_pairs": 2,
+  "microbatch_pairs": 1,
+  "gradient_checkpointing": true,
+  "device": "mps",
+  "torch": "2.11.0",
+  "python": "3.11.15 (main, Mar 11 2026, 17:14:47) [Clang 20.1.8 ]",
+  "save_weights": false
+}

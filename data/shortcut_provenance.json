@@ -1,0 +1,21 @@
+{
+  "description": "Instructor-created controlled preference data for Part 4 of Assignment 2.",
+  "purpose": "The confounded training set makes relevance and an enthusiastic wrapper predict the same label. The counterbalanced set breaks the wrapper-label association. The three evaluation sets assign the wrapper in aligned, controlled, and reversed patterns.",
+  "construction": "Twenty-four simple factual prompts and answers are recombined to form relevant chosen responses and unrelated rejected responses. The evaluation sets reuse this controlled prompt-answer universe and therefore test sensitivity to wrapper reassignment, not generalisation to new topics.",
+  "rows": {
+    "shortcut_train_confounded.csv": 144,
+    "shortcut_train_counterbalanced.csv": 144,
+    "shortcut_eval_aligned.csv": 48,
+    "shortcut_eval_controlled.csv": 48,
+    "shortcut_eval_reversed.csv": 48
+  },
+  "sha256": {
+    "shortcut_train_confounded.csv": "42408560aa8e4f5a59906bbcebe07aff8e55b1fbc3994b1a23ba2b9bac755e99",
+    "shortcut_train_counterbalanced.csv": "2e2923a42f7181238d7344851fc1144a3703404b6a810bb51f92d36659c4cb1f",
+    "shortcut_eval_aligned.csv": "f6993bcc28e99214f5cf08972ace02c4caf3f1833a01025a47949459a46ad14a",
+    "shortcut_eval_controlled.csv": "af991994e58312489f8c19250305603fd1f0a11e25a143540bedca51062b9b48",
+    "shortcut_eval_reversed.csv": "b49860e6307bb4eb50c72e7a2f08cf5e2f30aa0158c8b16fa153a9fd482c1376"
+  },
+  "origin": "Adapted from the controlled CSV files developed for Assignment 2 Version 2. The counterbalanced training file places the wrapper on exactly half of the chosen and half of the rejected responses. The controlled evaluation has exactly 12 rows for each of the four wrapper patterns.",
+  "limitation": "The training files contain repeated recombinations, and the evaluation files reuse the same 24 prompts and answer bank. These data test sensitivity to wrapper reassignment within a closed toy universe; they do not test generalisation to unseen topics."
+}

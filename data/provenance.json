@@ -1,0 +1,45 @@
+{
+  "dataset": "Anthropic/hh-rlhf",
+  "subset": "helpful-base",
+  "revision": "09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa",
+  "source_urls": {
+    "train": "https://huggingface.co/datasets/Anthropic/hh-rlhf/resolve/09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa/helpful-base/train.jsonl.gz",
+    "test": "https://huggingface.co/datasets/Anthropic/hh-rlhf/resolve/09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa/helpful-base/test.jsonl.gz"
+  },
+  "source_sha256": {
+    "train": "518a5bf288456fc9f3b7c980c54116fba0c52f274d3f4d344675d83e4058f6f4",
+    "test": "8be3fc1a13b27901631696f2be6f184c799f1baeaf145f53ac5db24960adc37b"
+  },
+  "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+  "encoder_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "seed": 42,
+  "selection": "Single-turn pairs with identical contexts, distinct nonempty responses, and at most 256 encoder tokens per formatted prompt-response. One randomly selected pair per normalised question. No source-test question in train, validation or orientation. The orientation set is disjoint from all model-development splits. No selection by model performance or preference direction.",
+  "counts": {
+    "source_train": {
+      "source_rows": 43835,
+      "valid_single_turn": 12784,
+      "within_256_tokens": 12353,
+      "unique_questions": 12287,
+      "after_excluding_source_test_questions": 12282
+    },
+    "source_test": {
+      "source_rows": 2354,
+      "valid_single_turn": 694,
+      "within_256_tokens": 672,
+      "unique_questions": 672
+    }
+  },
+  "split_sizes": {
+    "train": 1536,
+    "validation": 256,
+    "test": 256,
+    "orientation": 8
+  },
+  "csv_sha256": {
+    "train": "f248f51edfa0c3b939de68a3f25c53a6e5c64a9840de2304ce7e861d5e45b5b0",
+    "validation": "04174fbaec94eabff49d87492a58d59d8086394dc5150174f16b158c39907dd7",
+    "test": "83f30dd8d9391f39894a1cf4d9f4900889d4a662802c8c378e4ef2d9f18476d0",
+    "orientation": "91f6a1e41a9b1966b28fbd75be977dc98ed24f369cee7bc88e5c0b44ce1322b8"
+  },
+  "limitation": "A subset of short, single-turn examples, not representative of the full dataset. The complete splits have not undergone a classroom content review. DPO tokenizer lengths must be checked separately."
+}

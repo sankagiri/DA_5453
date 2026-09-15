@@ -1,0 +1,56 @@
+epoch,example_id,prompt,answer,tokens,hit_token_limit
+0,staff-probe-02,"Give me two ideas for using leftover cooked rice, carrots and peas.","Using leftover cooked rice, carrots, and peas can be a delightful and nutritious meal option. Here are two ideas:
+
+1. **Grilled Chicken and Rice**:
+
+Ingredients:
+- 2 cups of leftover cooked rice
+- 1 cup of carrots
+- 1 cup of peas
+- 1/2 cup of olive oil
+- Salt and pepper to taste
+
+Instructions:
+1. Preheat your grill or broiler to medium-high heat.
+2. Season the rice with salt and pepper.
+3. Place the rice in the grill pan and cook for 2-3 minutes on each",128,True
+0,staff-probe-06,What is the best route to get there?,"The best route to get to the airport is a direct flight from New York City to Los Angeles. The flight from New York City to Los Angeles is a 2.5 hour flight, and it takes approximately 1 hour and 15 minutes to complete. The airport is located about 20 minutes away from the city center.
+
+Please note that the flight may take a bit longer than the estimated time, but it's a quick and efficient way to get to the airport. If you're planning to take a taxi or ride-sharing service, I recommend checking the availability of the airport and the taxi or ride-sharing",128,True
+0,staff-probe-08,Can you tell me whether the parcel I ordered yesterday has arrived?,"I'm sorry for any confusion, but as a chatbot, I don't have the ability to access or verify the status of a specific item or service. I'm designed to provide information about products, services, and services that are available on the internet. I'm not equipped to assist with inquiries about the status of a specific item or service.",71,False
+1,staff-probe-02,"Give me two ideas for using leftover cooked rice, carrots and peas.","Here are two ideas for using leftover cooked rice, carrots, and peas:
+
+1. **Breakfast**:
+
+* 1/2 cup of leftover cooked rice
+* 1/2 cup of carrots
+* 1/2 cup of peas
+* 1/2 cup of cooked quinoa
+
+This recipe is a great way to use leftover rice, carrots, and peas, and it's a great way to add some protein to your breakfast.
+
+2. **Lunch**:
+
+* 1/2 cup of leftover cooked rice
+* 1/2 cup of carrots
+* 1/2",128,True
+1,staff-probe-06,What is the best route to get there?,"The best route to get to the airport is to take the IATA 123 route, which is a 123-mile (193-km) direct flight from New York City to Los Angeles. The flight takes approximately 2 hours and 15 minutes, and the airport is located about 20 miles (32 km) away.",77,False
+1,staff-probe-08,Can you tell me whether the parcel I ordered yesterday has arrived?,"I'm sorry for any confusion, but as a chatbot, I don't have the ability to access or verify the status of a specific item or service. I'm designed to provide information and assistance in a general manner. I recommend checking the official website or contacting the customer service of the company you ordered from for the most accurate and up-to-date information.",75,False
+2,staff-probe-02,"Give me two ideas for using leftover cooked rice, carrots and peas.","Here are two ideas for using leftover cooked rice, carrots, and peas:
+
+1. **Breakfast**:
+
+* 1/2 cup of leftover cooked rice
+* 1/2 cup of carrots
+* 1/2 cup of peas
+* 1/2 cup of cooked quinoa
+
+This recipe is a great way to use leftover rice, carrots, and peas, and it's also a good source of protein and fiber.
+
+2. **Lunch**:
+
+* 1/2 cup of leftover cooked rice
+* 1/2 cup of carrots
+* 1/2 cup of",128,True
+2,staff-probe-06,What is the best route to get there?,"The best route to get to the airport is to take the IATA 123 route, which is a 123-mile (193-km) direct flight from New York City to Los Angeles. The flight takes approximately 2 hours and 15 minutes, and the airport is located about 20 miles (32 km) away.",77,False
+2,staff-probe-08,Can you tell me whether the parcel I ordered yesterday has arrived?,"I'm sorry for any confusion, but as a chatbot, I don't have the ability to access or verify the status of a specific item or service. I'm designed to provide information and assistance, not to assist with the delivery of a specific item. I recommend checking the official website or contacting the customer service of the company you ordered from for the most accurate and up-to-date information.",82,False
