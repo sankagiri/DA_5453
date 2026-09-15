@@ -43,10 +43,14 @@ If Part 5 genuinely cannot run on your machine, analyse the supplied run in `dat
 
 ## Submit
 
+**Deadline:** Sunday, 4 October 2026, 11:59 PM Indian Standard Time (IST).
+
 - Add your name and roll number.
 - Complete Q1–Q20, including the prediction before Q13's experiment.
 - Retain the outputs and plots that support your answers. Check Q1, Q17 and Q18 sanity checks.
 - If Q19 uses the supplied run rather than your own, say so.
-- Submit the completed `.ipynb` through the course submission system. Do not submit model weights. Follow the deadline and filename instructions posted there.
+- Rename the completed notebook `ROLLNUMBER_DA5453_Assignment2.ipynb`, replacing `ROLLNUMBER` with your own roll number.
+- Submit that `.ipynb` file through the [assignment submission form](https://docs.google.com/forms/d/e/1FAIpQLSfJTfSfDTtguBdAeX3STW_lUxZZF4WkimQL2oKiYvB-M0VEVw/viewform). Do not submit model weights or the surrounding folder.
+- Keep the emailed response receipt. To replace your notebook before the deadline, use **Edit your response** from that receipt and upload the revised file; do not create a second submission.
 
 Dataset and model sources are listed in [ATTRIBUTION.md](ATTRIBUTION.md). The supplied data include 1,536 training pairs, 256 validation pairs and eight separate pairs for the optional judgment activity. Use the supplied splits; do not fetch additional rows from the source dataset.
